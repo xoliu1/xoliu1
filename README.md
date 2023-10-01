@@ -1,5 +1,5 @@
 
-![xoliu's LeetCode](https://stats.justsong.cn/api/csdn?id=xoliu)
+![xoliu's LeetCode](https://stats.justsong.cn/api/leetcode?username=xoliu&cn=true)
 
 ![xoliu's CSDN](https://stats.justsong.cn/api/csdn?id=xoliu1&theme=dark)
 
